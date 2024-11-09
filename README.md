@@ -34,7 +34,7 @@ The **Flight Reservation System** is a web-based application that allows users t
 ## Installation and Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Amitkumar9934/Flight.git
+   git clone (https://github.com/Amitkumar9934/flight-reservation.git)
    cd flight
 2.  Configure the Database: Update the application.    properties file with your database configuration:
 
